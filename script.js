@@ -18,8 +18,8 @@ document.addEventListener("DOMContentLoaded", function(event) {
 
   // Part 1
 
-
   // Part 2
+
 
 
   // Part 3
